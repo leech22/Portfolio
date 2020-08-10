@@ -12,7 +12,7 @@ export default {
   */
   target: 'statics',
   router: {
-    base: '/protfolio/'
+    base: '/Portfolio/'
   }
   }
   /*
