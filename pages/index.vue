@@ -49,7 +49,7 @@
 export default {
   head() {
     return {
-      title: "Name"
+      title: "Francis Lee's Portfolio"
     };
   }
 };
