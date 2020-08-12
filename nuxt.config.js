@@ -4,7 +4,10 @@ export default {
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
   */
-  mode: 'universal',
+  /* 
+  mode: 'universal', ** change from universal to spa 
+  */
+  mode: 'spa',
   components: true,
   /*
   ** Nuxt target
