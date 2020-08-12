@@ -31,11 +31,11 @@
     </Portfolio>
     <About
       id="Strength"
-      profileImgURL_1="/img/grid_1.jpg"
+      profileImgURL_1="/img/grid_1.jpeg"
       profileHeader1="MORE THAN"
       profileHeader1_2="RESPONSIVE"
       profileDescription1="Description"
-      profileImgURL_2="/img/grid_2.jpg"
+      profileImgURL_2="/img/grid_2.jpeg"
       profileHeader2="POWERFUL"
       profileHeader2_2="PERFORMANCE"
       profileDescription2="Description"
