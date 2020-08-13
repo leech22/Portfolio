@@ -31,11 +31,11 @@
     </Portfolio>
     <About
       id="Strength"
-      profileImgURL_1="/static/img/grid_1.jpeg"
+      profileImgURL_1="https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       profileHeader1="MORE THAN"
-      profileHeader1_2="RESPONSIVE"
+      profileHeader1_2="LEADERSHIP"
       profileDescription1="Description"
-      profileImgURL_2="/static/img/grid_2.jpeg"
+      profileImgURL_2="https://images.pexels.com/photos/3183156/pexels-photo-3183156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       profileHeader2="POWERFUL"
       profileHeader2_2="PERFORMANCE"
       profileDescription2="Description"
