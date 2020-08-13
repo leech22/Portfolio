@@ -31,15 +31,15 @@
     </Portfolio>
     <About
       id="Strength"
-      profileImgURL_1="https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      profileHeader1="MORE THAN"
-      profileHeader1_2="LEADERSHIP"
-      profileDescription1="Description"
-      profileImgURL_2="https://images.pexels.com/photos/3183156/pexels-photo-3183156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      profileHeader2="MORE THAN"
-      profileHeader2_2="ANALYTIC"
-      profileDescription2="Description"
-    />
+        profileImgURL_1="https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        profileHeader1="MORE THAN"
+        profileHeader1_2="LEADERSHIP"
+        profileDescription1="The job of a manager is to support his or her staff, not vice versa, and that begins by being among them.~ Bill Hewlett"
+        profileImgURL_2="https://images.pexels.com/photos/3183156/pexels-photo-3183156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        profileHeader2="MORE THAN"
+        profileHeader2_2="ANALYTIC"
+        profileDescription2="Strong problem solving with Analytic Ascendancy Model"
+      />
     <Contact id="contact" email="chinhoon.lee@gmail.com" phone="+6012 2841288"/>
     <Footer/>
   </div>
@@ -49,7 +49,7 @@
 export default {
   head() {
     return {
-      title: "Francis Lee's Portfolio"
+      title: "Portfolio of Francis"
     };
   }
 };
