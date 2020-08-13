@@ -36,8 +36,8 @@
       profileHeader1_2="LEADERSHIP"
       profileDescription1="Description"
       profileImgURL_2="https://images.pexels.com/photos/3183156/pexels-photo-3183156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-      profileHeader2="POWERFUL"
-      profileHeader2_2="PERFORMANCE"
+      profileHeader2="MORE THAN"
+      profileHeader2_2="ANALYTIC"
       profileDescription2="Description"
     />
     <Contact id="contact" email="chinhoon.lee@gmail.com" phone="+6012 2841288"/>
