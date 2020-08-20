@@ -5,7 +5,7 @@
       id="home"
       imgURL="https://images.pexels.com/photos/326569/pexels-photo-326569.jpeg?cs=srgb&dl=pexels-pixabay-326569.jpg&fm=jpg"
       name="I'm Francis Lee"
-      job="Services Delivery Manager | Technical Project Manager | Freelance Data Analysts"
+      job="Service Delivery Manager | Technical Project Manager | Data Analysts"
     />
     <Portfolio id="portfolio">
       <template v-slot:project>
@@ -23,9 +23,9 @@
         />
         <Project
           imgURL="https://images.pexels.com/photos/3183145/pexels-photo-3183145.jpeg?cs=srgb&dl=pexels-fauxels-3183145.jpg&fm=jpg"
-          linkURL="https://github.com"
+          linkURL="https://datastudio.google.com/u/2/reporting/1d7d2323-10b0-46c0-bce1-36347db45a10/page/FtqbB"
           name="Data Analysis"
-          description="Description"
+          description="Turn Unstructured Data Cave into Gold Mine"
         />
       </template>
     </Portfolio>
